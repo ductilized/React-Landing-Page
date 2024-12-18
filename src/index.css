@@ -1,0 +1,42 @@
+.wage{
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.col-4{
+  height: 650px;
+  width: 1200px;
+}
+.moaz-head{
+  text-align: center;
+  color: aliceblue;
+}
+.content{
+  height: 150px;
+  background: white;
+  text-align: center;
+  font-size: 13px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image-content{
+  height: 220px;
+  display: flex;
+}
+.image{
+  flex: 5;
+}
+.text{
+  flex: 7;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue;
+}
+.text-content{
+  height: 150px;
+}
+.text-image{
+  display: flex;
+}
+.tests{
+text-align: center;
+}
